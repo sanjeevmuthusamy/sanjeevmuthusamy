@@ -47,8 +47,8 @@ Designed and developed a web application that:
 
 ## 📈 GitHub Stats  
 
-![Sanjeev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
+![Sanjeev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjeevmuthusamy&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevmuthusamy&layout=compact&theme=radical)  
 
 
 ## 📫 Connect with Me  
