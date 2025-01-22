@@ -1,12 +1,14 @@
-# 👋 Hi, I'm Sanjeev!  
+# 👋 Hi, I'm Sanjeev Muthusamy!  
 
 
 ## 🌟 About Me  
 🎓 **Background**: I'm a developer passionate about solving problems with technology.  
+💼 **Currently Working At**: [ATDXT](https://www.atdxt.com)  
 💡 **Interests**: Full-Stack Development and Quantum Computing.  
 ⚡ **Fun Fact**: I love diving into open-source projects and experimenting with new frameworks.  
 
 ---
+
 
 ## 🛠️ Technologies & Tools  
 
@@ -35,6 +37,7 @@
 
 ---
 
+
 ## 🚀 Key Projects  
 
 ### 🌍 Geo-Visualization Web Application  
@@ -44,11 +47,6 @@ Designed and developed a web application that:
 - Enhances spatial data interpretation for better insights.  
 
 ---
-
-## 📈 GitHub Stats  
-
-![Sanjeev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjeevmuthusamy&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevmuthusamy&layout=compact&theme=radical)  
 
 
 ## 📫 Connect with Me  
