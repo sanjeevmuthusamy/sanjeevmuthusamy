@@ -5,7 +5,6 @@
 🎓 **Background**: I'm a developer passionate about solving problems with technology.  
 💼 **Currently Working At**: [ATDXT](https://www.atdxt.com)  
 💡 **Interests**: Full-Stack Development and Quantum Computing.  
-⚡ **Fun Fact**: I love diving into open-source projects and experimenting with new frameworks.  
 
 ---
 
