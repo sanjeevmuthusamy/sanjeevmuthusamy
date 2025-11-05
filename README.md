@@ -3,7 +3,7 @@
 
 ## 🌟 About Me  
 🎓 **Background**: I'm a developer passionate about solving problems with technology.  
-💼 **Currently Working At**: 
+💼 **Currently Working At**: Indsys Holdings
 💡 **Interests**: Full-Stack Development and Quantum Computing.  
 
 ---
