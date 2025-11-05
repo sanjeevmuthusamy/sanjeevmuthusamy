@@ -3,7 +3,7 @@
 
 ## 🌟 About Me  
 🎓 **Background**: I'm a developer passionate about solving problems with technology.  
-💼 **Currently Working At**: [ATDXT](https://www.atdxt.com)  
+💼 **Currently Working At**: 
 💡 **Interests**: Full-Stack Development and Quantum Computing.  
 
 ---
@@ -35,18 +35,6 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
 
 ---
-
-
-## 🚀 Key Projects  
-
-### 🌍 Geo-Visualization Web Application  
-Designed and developed a web application that:  
-- Extracts geocoordinates from image source files.  
-- Visualizes these geocoordinates as a heatmap on Google Maps.  
-- Enhances spatial data interpretation for better insights.  
-
----
-
 
 ## 📫 Connect with Me  
 💼 [LinkedIn](https://www.linkedin.com/in/sanjeevmuthusamy25)  
